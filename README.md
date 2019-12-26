@@ -19,6 +19,10 @@ Use the dropdowns to select your team then input your departing airport and use 
   * Skyscanner
   * Apidojo Booking
 
+## Demo
+
+![Demo Gif](assets/images/sportsNowDemo.gif)
+
 ## Future Development/Improvements
 - [ ] Ability to save information to a user
 - [ ] Allow to actually buy tickets, book flights and reserve hotel rooms
